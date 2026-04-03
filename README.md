@@ -1,4 +1,4 @@
-# Learnable-tensor Diagonal Sparse Metrics boosted-Instance Semi-fuzzy Clustering for Continuous Differentiation-inspired Grading
+# Learnable-tensor Diagonal Sparse Metrics boosted-Instance Semi-fuzzy Clustering for Actively Explainable Pathology Grading    
 ## 🧔: Authors [*Corresponding author]
 - Pan Huang, Chentao Li*, and Jing Qin*
 
