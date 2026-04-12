@@ -4,7 +4,7 @@
 
 ## :fire: News
 
-- [2026/05/02] Our manuscript was submitted to _Science Advances (IF 12.5)_.
+- [2026/05/02] Our manuscript will be submitted to _Nature Medicine (IF 50.0)_.
 
 
 
