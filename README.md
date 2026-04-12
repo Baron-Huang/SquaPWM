@@ -1,6 +1,6 @@
 # Human Prior-alignment Multi-instance Clustering Active-circuit for Interactive-explanation Squamous Cell Carcinoma Fine-grained Grading
 ## 🧔: Authors [*Corresponding author]
-- Pan Huang, Xinwei Zhang, Yu Heng, Zheng Gu, Guoqing Fu, Yiwen Wang, Mingrui Ma, Francesco Mercaldo, Antonella Stone, Chentao Li*, and Jing Qin*
+- Pan Huang, Xinwei Zhang, Yu Heng, Zheng Gu, Guoqing Fu, Yiwen Wang, Xinyu Hao, Mingrui Ma, Francesco Mercaldo, Antonella Stone, Chentao Li*, and Jing Qin*
 
 ## :fire: News
 
