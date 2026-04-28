@@ -10,7 +10,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Mechanistically Interpretable Pan-squamous Pathology World Model (SquaPWM)** method:
+Here's an overview of our **Mechanistically Interpretable Pan-squamous Pathology Large World-model (SquaPLW)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
